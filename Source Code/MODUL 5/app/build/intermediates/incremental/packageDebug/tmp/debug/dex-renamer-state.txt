@@ -1,0 +1,4 @@
+#Fri Jun 28 10:16:58 WITA 2024
+base.0=C\:\\Users\\User\\AndroidStudioProjects\\Shrinemaster\\app\\build\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex

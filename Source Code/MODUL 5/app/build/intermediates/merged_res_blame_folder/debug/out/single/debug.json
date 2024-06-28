@@ -1,0 +1,130 @@
+[
+    {
+        "merged": "com.google.codelabs.mdc.kotlin.shrine.app-merged_res-28:/drawable_shr_filter.xml.flat",
+        "source": "com.google.codelabs.mdc.kotlin.shrine.app-main-30:/drawable/shr_filter.xml"
+    },
+    {
+        "merged": "com.google.codelabs.mdc.kotlin.shrine.app-merged_res-28:/mipmap-hdpi_ic_launcher.png.flat",
+        "source": "com.google.codelabs.mdc.kotlin.shrine.app-main-30:/mipmap-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.google.codelabs.mdc.kotlin.shrine.app-merged_res-28:/mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "com.google.codelabs.mdc.kotlin.shrine.app-main-30:/mipmap-xhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.google.codelabs.mdc.kotlin.shrine.app-merged_res-28:/drawable_shr_product_grid_background_shape.xml.flat",
+        "source": "com.google.codelabs.mdc.kotlin.shrine.app-main-30:/drawable/shr_product_grid_background_shape.xml"
+    },
+    {
+        "merged": "com.google.codelabs.mdc.kotlin.shrine.app-merged_res-28:/drawable_ic_launcher_background.xml.flat",
+        "source": "com.google.codelabs.mdc.kotlin.shrine.app-main-30:/drawable/ic_launcher_background.xml"
+    },
+    {
+        "merged": "com.google.codelabs.mdc.kotlin.shrine.app-merged_res-28:/menu_shr_toolbar_menu.xml.flat",
+        "source": "com.google.codelabs.mdc.kotlin.shrine.app-main-30:/menu/shr_toolbar_menu.xml"
+    },
+    {
+        "merged": "com.google.codelabs.mdc.kotlin.shrine.app-merged_res-28:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "com.google.codelabs.mdc.kotlin.shrine.app-main-30:/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "com.google.codelabs.mdc.kotlin.shrine.app-merged_res-28:/drawable_shr_branded_menu.xml.flat",
+        "source": "com.google.codelabs.mdc.kotlin.shrine.app-main-30:/drawable/shr_branded_menu.xml"
+    },
+    {
+        "merged": "com.google.codelabs.mdc.kotlin.shrine.app-merged_res-28:/layout_shr_main_activity.xml.flat",
+        "source": "com.google.codelabs.mdc.kotlin.shrine.app-main-30:/layout/shr_main_activity.xml"
+    },
+    {
+        "merged": "com.google.codelabs.mdc.kotlin.shrine.app-merged_res-28:/drawable_shr_logo.xml.flat",
+        "source": "com.google.codelabs.mdc.kotlin.shrine.app-main-30:/drawable/shr_logo.xml"
+    },
+    {
+        "merged": "com.google.codelabs.mdc.kotlin.shrine.app-merged_res-28:/raw_products.json.flat",
+        "source": "com.google.codelabs.mdc.kotlin.shrine.app-main-30:/raw/products.json"
+    },
+    {
+        "merged": "com.google.codelabs.mdc.kotlin.shrine.app-merged_res-28:/layout_shr_backdrop.xml.flat",
+        "source": "com.google.codelabs.mdc.kotlin.shrine.app-main-30:/layout/shr_backdrop.xml"
+    },
+    {
+        "merged": "com.google.codelabs.mdc.kotlin.shrine.app-merged_res-28:/drawable_shr_close_menu.xml.flat",
+        "source": "com.google.codelabs.mdc.kotlin.shrine.app-main-30:/drawable/shr_close_menu.xml"
+    },
+    {
+        "merged": "com.google.codelabs.mdc.kotlin.shrine.app-merged_res-28:/mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "com.google.codelabs.mdc.kotlin.shrine.app-main-30:/mipmap-hdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.google.codelabs.mdc.kotlin.shrine.app-merged_res-28:/layout_shr_staggered_product_card_second.xml.flat",
+        "source": "com.google.codelabs.mdc.kotlin.shrine.app-main-30:/layout/shr_staggered_product_card_second.xml"
+    },
+    {
+        "merged": "com.google.codelabs.mdc.kotlin.shrine.app-merged_res-28:/layout_shr_staggered_product_card_third.xml.flat",
+        "source": "com.google.codelabs.mdc.kotlin.shrine.app-main-30:/layout/shr_staggered_product_card_third.xml"
+    },
+    {
+        "merged": "com.google.codelabs.mdc.kotlin.shrine.app-merged_res-28:/layout_shr_staggered_product_card_first.xml.flat",
+        "source": "com.google.codelabs.mdc.kotlin.shrine.app-main-30:/layout/shr_staggered_product_card_first.xml"
+    },
+    {
+        "merged": "com.google.codelabs.mdc.kotlin.shrine.app-merged_res-28:/mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "com.google.codelabs.mdc.kotlin.shrine.app-main-30:/mipmap-xxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.google.codelabs.mdc.kotlin.shrine.app-merged_res-28:/mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "com.google.codelabs.mdc.kotlin.shrine.app-main-30:/mipmap-xxxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.google.codelabs.mdc.kotlin.shrine.app-merged_res-28:/mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "com.google.codelabs.mdc.kotlin.shrine.app-main-30:/mipmap-xxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.google.codelabs.mdc.kotlin.shrine.app-merged_res-28:/drawable_shr_search.xml.flat",
+        "source": "com.google.codelabs.mdc.kotlin.shrine.app-main-30:/drawable/shr_search.xml"
+    },
+    {
+        "merged": "com.google.codelabs.mdc.kotlin.shrine.app-merged_res-28:/layout_shr_product_card.xml.flat",
+        "source": "com.google.codelabs.mdc.kotlin.shrine.app-main-30:/layout/shr_product_card.xml"
+    },
+    {
+        "merged": "com.google.codelabs.mdc.kotlin.shrine.app-merged_res-28:/mipmap-mdpi_ic_launcher.png.flat",
+        "source": "com.google.codelabs.mdc.kotlin.shrine.app-main-30:/mipmap-mdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.google.codelabs.mdc.kotlin.shrine.app-merged_res-28:/mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "com.google.codelabs.mdc.kotlin.shrine.app-main-30:/mipmap-xxxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.google.codelabs.mdc.kotlin.shrine.app-merged_res-28:/layout_shr_product_grid_fragment.xml.flat",
+        "source": "com.google.codelabs.mdc.kotlin.shrine.app-main-30:/layout/shr_product_grid_fragment.xml"
+    },
+    {
+        "merged": "com.google.codelabs.mdc.kotlin.shrine.app-merged_res-28:/mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "com.google.codelabs.mdc.kotlin.shrine.app-main-30:/mipmap-mdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.google.codelabs.mdc.kotlin.shrine.app-merged_res-28:/drawable_shr_menu.xml.flat",
+        "source": "com.google.codelabs.mdc.kotlin.shrine.app-main-30:/drawable/shr_menu.xml"
+    },
+    {
+        "merged": "com.google.codelabs.mdc.kotlin.shrine.app-merged_res-28:/drawable-v24_ic_launcher_foreground.xml.flat",
+        "source": "com.google.codelabs.mdc.kotlin.shrine.app-main-30:/drawable-v24/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "com.google.codelabs.mdc.kotlin.shrine.app-merged_res-28:/mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "com.google.codelabs.mdc.kotlin.shrine.app-main-30:/mipmap-xhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.google.codelabs.mdc.kotlin.shrine.app-merged_res-28:/layout_shr_login_fragment.xml.flat",
+        "source": "com.google.codelabs.mdc.kotlin.shrine.app-main-30:/layout/shr_login_fragment.xml"
+    },
+    {
+        "merged": "com.google.codelabs.mdc.kotlin.shrine.app-merged_res-28:/animator_shr_next_button_state_list_anim.xml.flat",
+        "source": "com.google.codelabs.mdc.kotlin.shrine.app-main-30:/animator/shr_next_button_state_list_anim.xml"
+    },
+    {
+        "merged": "com.google.codelabs.mdc.kotlin.shrine.app-merged_res-28:/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "com.google.codelabs.mdc.kotlin.shrine.app-main-30:/mipmap-anydpi-v26/ic_launcher.xml"
+    }
+]
